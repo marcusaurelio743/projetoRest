@@ -1,0 +1,4 @@
+br\com\springboot\curso_springboot\model\Usuario.class
+br\com\springboot\curso_springboot\Application.class
+br\com\springboot\curso_springboot\repository\UsuarioRepository.class
+br\com\springboot\curso_springboot\controllers\GreetingsController.class
